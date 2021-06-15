@@ -1,0 +1,21 @@
+Your reservation was created successfully in Wed Jun 02 20:13:41 EEST 2021
+ID number: 1
+Offer ID 256
+The payment of the reservation was successfully: true
+The final price is: 350.0
+First name of the tourist: Ana
+Last name of the tourist: Pop
+Age of the tourist: 32
+National ID number of the tourist: 2890415126778
+E-mail address of the tourist is: anapop@gmail.com
+City of residence of the tourist: Cluj-Napoca
+Country of residence of the tourist: Romania
+Phone number of the tourist: 0755786984
+First name of the tourist: Carmen
+Last name of the tourist: Enescu
+Age of the tourist: 35
+National ID number of the tourist: 2860318124998
+E-mail address of the tourist is: carmenenescu@gmail.com
+City of residence of the tourist: Bucuresti
+Country of residence of the tourist: Romania
+Phone number of the tourist: 0756900788

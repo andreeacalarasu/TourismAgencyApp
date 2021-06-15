@@ -1,0 +1,10 @@
+1, CITYBREAK, Rome, 03/08/2021, 03/08/2021, 280, true, Rome Street, Hilton, HOTEL, PLANE, Cluj-Napoca, 100
+2, SEA, Miami, 12/07/2021, 13/07/2021, 2300, true, Miami street, MiamiBeach, HOTEL, PLANE, Bucuresti, 1400
+3, MOUNTAIN, Brasov, 17/08/2021, 17/08/2021, 500, true, Carpati street, VoieBuna, MOTEL
+4, SEA, Malaga, 20/08/2021, 20/08/2021, 450, true, Malaga street, SeaResort, HOTEL, PLANE, Brasov, 400
+5, CITYBREAK, Paris, 30/07/2021, 30/07/2021, 700, true, Paris street, SunnyView, GUESTHOUSE, BUS, Timisoara, 200
+6, CITYBREAK, Barcelona, 15/09/2021, 15/09/2021, 450, true, Barca street, Marriot, HOTEL, PLANE, Iasi, 200
+7, SEA, Marbella, 12/08/2021, 12/08/2021, 600, true, Marbella street, Marbella Resort, HOTEL, PLANE, Bucuresti, 300
+8, MOUNTAIN, Valea Ierii, 10/06/2021, 10/06/2021, 200, true, Principala street, Lara, GUESTHOUSE
+9, MOUNTAIN, Marisel, 25/07/2021, 25/07/2021, 230, true, Marisel street, GreenResort, MOTEL
+10, SEA, Mamaia, 29/07/2021, 29/07/2021, 600, true, Mamaia street, SeaResort, HOTEL
